@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClockApp</string>
+    <string name="clock_image_description">Clock Image</string>
+    <string name="check_button_text">Check</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="question_hint">Enter your answer...</string>
+</resources>
+
+
